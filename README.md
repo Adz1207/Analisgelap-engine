@@ -1,20 +1,17 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1y0kNgaDwrfd67O8AbJeVQZK7-G3OfLeM
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+​⚡ THE AQUARIUS CODE // ANALISGELAP TERMINAL V1.0
+​"Dunia tidak membayar apa yang kau ketahui. Dunia membayar apa yang kau selesaikan."
+​EXPOSITION
+​Kebanyakan orang menggunakan AI untuk mencari kenyamanan. Mereka bertanya pada algoritma yang dirancang untuk menjadi sopan, bukan untuk menjadi benar. Analisgelap Terminal adalah antitesis dari itu semua. Ini bukan asisten virtual; ini adalah mesin bedah strategi yang dirancang untuk menghancurkan ilusi kompetensi dan membangun realitas eksekusi.
+​TECHNICAL SPECIFICATION
+​Mesin ini menggunakan arsitektur Gemini 1.5 Pro yang diinjeksi dengan framework The Aquarius Code.
+​Contextual Awareness: Mampu membedah ceruk pasar (niche) secara spesifik dan brutal.
+​Logical Multiplier: Menghitung Opportunity Cost dari penundaan eksekusi secara matematis.
+​Modular Architect: Mendukung berbagai gaya visual (Dark Anime, Noir, Minimalist) untuk kebutuhan konten UGC.
+​OPERATIONAL GUIDE
+​Dapatkan Akses: Masukkan Google API Key Anda (via Google AI Studio).
+​Input Parameter: Tentukan niche, topik, dan gaya visual yang diinginkan.
+​Execute: Jalankan mesin untuk mendapatkan blueprint konten yang tajam.
+​⚠️ WARNING
+​Jangan jalankan mesin ini jika Anda mencari validasi. Analisgelap akan mengkritik logika Anda, menunjukkan lubang strategis Anda, dan menuntut aksi nyata.
+​Risiko: Penggunaan berlebih akan mengakibatkan peningkatan produktivitas yang drastis dan hilangnya kemampuan untuk mentoleransi omong kosong.
+​CONNECT WITH THE ARCHITECT
